@@ -6,7 +6,6 @@
 
 1. You need *[node.js](https://nodejs.org/en/)* installed to run this example.
 2. You need *[gulp cli](https://gulpjs.com/)* installed globally: `npm install -g gulp-cli`
-3. You need to install gulp to your local project. `npm install -g gulp`
 
 ## First time
 
